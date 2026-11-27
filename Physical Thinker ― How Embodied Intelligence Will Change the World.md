@@ -34,19 +34,21 @@ This book begins by giving that form of thought a name.
 
 **Physical Thinker.**
 
-A physical thinker is someone who understands the world through bodily sensation, makes judgments guided by physical response, and creates through movement. This is not a label for people who are athletic, or who excel at sports. It is a concept that goes to the root of human cognition itself.
+A physical thinker is someone who understands the world through bodily sensation, makes judgments guided by physical response, and creates through movement. Yet the term is not intended merely to identify a particular cognitive type. In its broader sense, it names a way of living that values each person's embodied engagement with the world. This is not a label for people who are athletic, or who excel at sports. It is a concept that goes to the root of human cognition itself.
 
 Our society has quietly built a hierarchy of intelligence—with verbal, analytical thinking at the top. As a result, countless people who understand things deeply through their bodies go unrecognized because they "can't explain it in words." The child shifting restlessly at the back of the classroom may be the one learning most deeply of all—through her body. But our educational systems have systematically missed that possibility.
 
 This book is written to illuminate what has been missed.
 
-Just as Temple Grandin's concept of *Visual Thinking* revealed the value of visual cognition and transformed how the world sees neurodiversity, this book proposes *Physical Thinking* as a new cognitive category—one that is universal, foundational, and urgently needed.
+Just as Temple Grandin's concept of *Visual Thinking* revealed the value of visual cognition and transformed how the world sees neurodiversity, this book proposes *Physical Thinking* as a working hypothesis about a mode of cognition, and as an invitation to value embodied intelligence throughout life.
 
 The philosophical foundation rests on Mark Johnson's theory of *embodied cognition*: meaning does not emerge from language, but from bodily experience. The educational vision draws from Tim Ingold's anthropology: teaching is not the transmission of knowledge, but the *opening of paths of attention.* And throughout, the book is in conversation with the cognitive sciences, from interoception research to active inference theory, from somatic practices to the neuroscience of trauma.
 
 Ultimately, this book arrives at a single, radical claim:
 
-**Recovering the capacity to think with the body could fundamentally transform the mental health of modern society.**
+**Could expanding our possibilities for embodied engagement with the world provide one foundation for healthier, happier, and freer lives?**
+
+This is a question to investigate, not an established claim of intervention efficacy.
 
 In an age where language overflows, information floods every moment, and AI generates text on demand, we are losing touch with our bodies. But where does the mind live? Inside the skull? Or throughout this whole, living, breathing body?
 
@@ -542,23 +544,29 @@ Our hierarchy of "intellectual" versus "manual" labor has rendered this intellig
 
 Howard Gardner's theory of Multiple Intelligences named **Bodily-Kinesthetic Intelligence** as one of eight. This was important recognition. But the physical thinking concept goes further: bodily cognition is not *one kind of intelligence among eight*—it is the *substrate on which all intelligence rests.* Every intelligence, Gardner's or anyone else's, is ultimately scaffolded by embodied image schemas.
 
-### Intelligence Without Language — The Hardest Case
+### Intelligence Beyond Words — Embodied Intelligence and Human Dignity
 
-The concept of physical thinking leads to a confrontation with a question that is both philosophical and urgently ethical:
+What do we actually know when someone cannot answer us in words? Difficulty speaking, performing an instructed movement, or completing an assessment tells us something about what has been observed. It does not, by itself, tell us the full extent of someone's inner experience. Speech, language comprehension, cognition, sensation, and movement are related but distinct.
 
-**Do people who cannot use language lack intelligence?**
+Yo Henmi's novel *Tsuki* (Moon, 2018), inspired by the 2016 killings at a disability care facility in Sagamihara, gives literary expression to the inner world of a resident known as Kii-chan. It invites us to question the confidence with which we judge the lives of people we cannot fully understand. A fictional inner voice is not evidence of any particular real person's cognitive capacity. Literature can instead remind us of the limits of our knowledge of other people.
 
-People with severe intellectual disabilities. Those with advanced aphasia. Those with profound autism who cannot use conventional language. Those who have lost expressive language to neurological illness. People with ALS who communicate through eye gaze alone.
+Experiences such as feeling the texture of a material, listening to music, noticing changes in one's surroundings, or spending time with someone one trusts need not be justified by a verbal account.
 
-Does any of this imply absence of intelligence?
+But there is a crucial distinction.
 
-Here is the uncomfortable answer that Western culture has implicitly given: *if you cannot demonstrate verbal competence, we assume you have diminished or absent intelligence.* The confusion of "verbal output" with "intelligence" has been so thorough that its assumption was rarely even conscious.
+**People do not deserve respect because they possess embodied intelligence. Because they deserve respect, we should attend to their embodied experiences and possibilities.**
 
-In augmentative and alternative communication (AAC) research, the principle of **Presumption of Competence** has been gaining ground: assume, as the starting point, that there is a thinking being inside—even when verbal communication is absent or minimal.
+Replacing linguistic ability with embodied ability as the criterion of human worth would merely create a new hierarchy. People whose capacities cannot be assessed, who need extensive support, or whose bodily responses others cannot interpret have the same inherent dignity.
 
-Carly Fleischmann had been diagnosed with severe autism and "profound intellectual disability." At thirteen, she sat down at a typewriter and began to type. What emerged was complex, incisive, emotionally rich—social commentary from someone who had been receiving therapy for years as if she understood nothing. She had understood everything. The road to verbal output had been blocked. But the intelligence had never been absent.
+In *Learning from My Daughter* (2019), philosopher Eva Feder Kittay draws on life with her daughter, who has significant disabilities, to challenge philosophical assumptions about rationality, independence, and the good life. Dependence is not a failure of personhood. Human life is sustained through relationships of care.
 
-Physical thinking provides the philosophical foundation for presumption of competence: if intelligence can exist in bodily form—in the capacity to sense, to respond to structure, to navigate space and relationship and force—then verbal output is one possible *expression* of intelligence, not intelligence itself.
+A society that values embodied intelligence does not value only what people can accomplish independently. It expands opportunities for choice and participation through the person's preferred means of communication, assistive technology, support from others, and accessible environments. The United Nations Convention on the Rights of Persons with Disabilities provides a rights-based foundation for this approach.
+
+In practice, we can attend to gaze, expressions, movements, and augmentative and alternative communication (AAC), while avoiding the temptation to impose our own interpretations on another person's bodily responses. When a preference is uncertain, that uncertainty should remain explicit, and we should seek accessible ways to confirm it. Not prejudging someone's limitations is different from assuming that a specific unmeasured ability must be present.
+
+To investigate intelligence beyond words, and at the same time refuse to measure dignity by intelligence: these are inseparable commitments of the Physical Thinker philosophy.
+
+Further reading: Yo Henmi, [*Tsuki* (2018)](https://www.kadokawa.co.jp/product/321804000175/); Eva Feder Kittay, [*Learning from My Daughter* (2019)](https://academic.oup.com/book/36453); [Convention on the Rights of Persons with Disabilities](https://www.mofa.go.jp/mofaj/fp/hr_ha/page22_000900.html).
 
 ---
 
@@ -800,6 +808,72 @@ Physical thinking offers a different model of leadership development: not "how t
 
 ---
 
+## Part VII: Physical Intelligence Across Life and Society
+
+## Chapter 13: Cultivating, Refining, and Maturing Physical Intelligence
+
+### What Is Physical Intelligence?
+
+We distinguish embodied knowledge, which is acquired through bodily experience; physical thinking, which is the process of thinking through bodily engagement; and physical intelligence, which is the capacity to draw on embodied experience in relating to the world.
+
+Our working definition of physical intelligence is the capacity to sense, understand, and regulate oneself through the body, engage with other people and the environment, and discover and create possibilities for action. This is not merely strength, speed, or athletic performance. Resting, seeking help, and changing one's environment may also express physical intelligence. Bodily intuition can be mistaken, and should be brought into dialogue with verbal reasoning and scientific inquiry.
+
+### Childhood: Growing Future Possibilities
+
+Through play, children explore materials, distances, timing, and relationships. Alongside purposeful training, children deserve opportunities for movement without an imposed objective, exploration of their own choosing, and play in which mistakes are welcome. How physical intelligence contributes to subsequent development and learning remains a longitudinal research question.
+
+### Adolescence: Rediscovering Oneself
+
+Adolescents face academic expectations, decisions about the future, relationships, and online social evaluation. Enjoyable embodied experiences may offer ways of encountering oneself beyond those external judgments.
+
+Youth suicide is a complex, multifactorial problem that cannot be attributed to bodily alienation alone. Whether bodily play and expression can expand young people's options for coping with distress is a hypothesis to test with young people themselves. Serious distress requires appropriate support from trusted people and qualified professionals.
+
+### Adulthood: Refining Performance Without Exhaustion
+
+Noticing fatigue, choosing rest, and adjusting how we work may all express physical intelligence. Better performance should not mean extracting ever more productivity from the body. It should mean supporting sustainable work and a meaningful life, including improvements to working conditions.
+
+### Later Life: Living With Embodied Wisdom
+
+Aging should not be described only in terms of losses. Long experience may provide skills, personally meaningful ways of living, and strategies for adapting to bodily change.
+
+Drawing inspiration from the distinction between fluid and crystallized intelligence, we propose a hypothesis of *fluid physical intelligence* (responding to unfamiliar situations) and *crystallized physical intelligence* (drawing on accumulated embodied experience). Whether these are distinct constructs and how they change with age remain open empirical questions. Accumulated experience does not guarantee increased ability. The aim is to support the life and pleasures each person values.
+
+### PIQ: Investigating Physical Intelligence
+
+The Physical Intelligence Quotient (PIQ) is a proposed research program for assessing physical intelligence, not a validated quotient. Candidate dimensions include perception, cognition, movement, bodily awareness, regulation, relationality, and creativity. We can explore their relationship to the WHO International Classification of Functioning, Disability and Health (ICF), taking account of body functions, activities, participation, and environmental factors.
+
+A multidimensional profile should precede any decision about a composite index. Content validity, reliability, measurement error, construct validity, responsiveness, and age- and device-related measurement differences require empirical investigation. Associations with cognitive function, effects of interventions, and transfer into everyday life require separate studies. Collaboration with CogEvo is a possible research direction, not an existing technical integration.
+
+Inability to measure a capacity must not be mistaken for its absence. A person's worth must never be determined by an assessment result.
+
+Reference: [WHO International Classification of Functioning, Disability and Health](https://www.who.int/Standards/Classifications/International-Classification-of-Functioning-Disability-and-Health).
+
+## Chapter 14: Cultivating a Culture of Physical Intelligence
+
+### Professionals Who Understand the Body
+
+Therapists can support not only physical function but also people's relationships with their environments. Their expertise can extend into education, disability support, occupational health, sports, culture, and technology. The Freelance Therapist initiative explores how professionals can exercise agency over their careers while retaining their responsibilities to others. Independence in work is a means of widening possibilities, not an end in itself.
+
+### Critical Business and the Embodied Theory of Organizations
+
+Healthcare and wellbeing businesses should address meaningful human problems while combining scientific credibility, real value to users, and economic sustainability. At HILUCO, we propose the term *critical business* for developing and supporting ventures of this kind.
+
+The embodied theory of organizations is an analogy: an organization can learn to sense changes in its environment, act, receive feedback, adjust, and accumulate knowledge. A cerebellar-like role can connect executive strategy with frontline practice. An organization is not literally a biological body, however. It consists of people with distinct rights and interests, and the analogy must never justify restricting their freedom.
+
+### Research, Books, and Games
+
+To build a culture of physical intelligence, ideas alone are insufficient. We also need enjoyable experiences and rigorous scientific investigation.
+
+Research aims to define physical intelligence, develop and validate assessments, and test interventions. The book *Physical Thinker* shares the philosophy. Games offer accessible opportunities to explore colors, sounds, movement, emotions, and creative expression. We propose prototyping games initially for adolescents, learning from their feedback, and developing promising experiences. Enjoyment, measurement quality, and intervention effectiveness are distinct outcomes.
+
+AI can assist literature review, editing, translation, game development, and analysis. Humans retain responsibility for meaning, ethical judgment, and research integrity. Data from minors and research participants must be minimized, protected, and used for research only through appropriate consent and oversight.
+
+Philosophy sets the direction; the market supports sustainable growth; science deepens the value. Market adoption matters, but commercial success cannot justify unsupported health claims or designs that undermine autonomy and dignity.
+
+Embodied Eutopia is the social vision; physical intelligence is its underlying philosophy; Physical Thinker names a way of living; PIQ is a proposed scientific and product initiative; and HILUCO supports their practical realization.
+
+---
+
 ## Conclusion: Toward a Society of Physical Thinkers
 
 ### What This Book Has Traced
@@ -827,6 +901,8 @@ And we argued that cultivating physical thinking is one of the most effective, s
 Let this be stated clearly:
 
 **Physical thinkers are not a special category of human beings.**
+
+The value of embodied experience does not depend on the ability to perform or explain it. Cultivating physical intelligence and respecting unconditional human dignity are distinct, equally important commitments.
 
 Every human being begins as a physical thinker. Before language, the body understands. Movement is thought's mother tongue. The body is the first cognitive instrument.
 
